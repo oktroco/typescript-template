@@ -1,0 +1,23 @@
+{
+  "name": "react-typescript-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "oktroco <andyoh12@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write .",
+    "fix": "eslint --ext .js,.jsx,.ts,.tsx ./ --fix",
+    "prettier": "prettier --check .",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx ./"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "^2.2.0",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2",
+    "eslint": "^7.14.0"
+  }
+}
