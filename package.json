@@ -2,7 +2,7 @@
   "name": "react-typescript-base",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "oktroco <andyoh12@naver.com>",
+  "author": "oktroco <oktroco@gmail.com>",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write .",
